@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:woman_student: I'm a senior Computer Science student at Central Connecticut State University (Graduating December 2023)  
+:woman_student: My name is Dejah Murray (Dejah is pronounced like Day-Juh or Deja Vu) and I'm a senior Computer Science student at Central Connecticut State University (Graduating December 2023)  
 
 :computer: I'm actively looking for new grad Software Engineering opportunities  
 
